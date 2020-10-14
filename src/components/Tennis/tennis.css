@@ -1,0 +1,86 @@
+.tennis {
+    /* background-image: url('../Images/image.jpg') ; */
+    background: #5f2c82;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #49a09d, #5f2c82);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #49a09d, #5f2c82); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    height:100vh;
+    width:100%;
+    opacity: 0.9;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.quiz{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+     
+}
+.question-text{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color:#fff;
+}
+.answer-section {
+   display:grid;
+   grid-template-columns: 1fr 1fr;
+   gap:20px;
+   justify-content: space-between;
+     
+}
+button{
+    width:200px;
+    text-align: center;
+    padding:10px;
+    border-radius: 5px;
+    outline: none;
+    border:none;
+    /* background: #283048;  /* fallback for old browsers */
+    /* background: -webkit-linear-gradient(to right, #859398, #283048);  /* Chrome 10-25, Safari 5.1-6 */
+
+    /* background: linear-gradient(to right, #859398, #283048); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+    background: #252d4a;
+      color:#fff;
+      cursor:pointer;
+}
+button:hover{
+    background: #555e7d;
+   
+}
+.result {
+    
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+     
+}
+
+.form{
+    display:flex;
+    flex-direction: column;
+    width:400px;
+    background: #333;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+     
+}
+@media screen (max-width:568px){
+    .form{
+        width:200px;
+    }
+}
+
+input {
+   width:100%;
+   padding:10px;
+   margin-bottom: 20px;
+   background-color: #fff;
+}

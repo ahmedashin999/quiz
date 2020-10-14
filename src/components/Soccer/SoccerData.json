@@ -1,0 +1,225 @@
+[
+    {
+       "questionText":"What is your age?",
+       "answerOptions":[
+          {
+             "answerText":"3-9yrs",
+             "ansPoint":-90
+          },
+          {
+             "answerText":"10-13yrs",
+             "ansPoint":-30
+          },
+          {
+             "answerText":"14-16yrs",
+             "ansPoint":12
+          },
+          {
+             "answerText":"17-19yrs",
+             "ansPoint":30
+          },
+          {
+             "answerText":"20-30yrs",
+             "ansPoint":48
+          },
+          {
+             "answerText":"31-40yrs",
+             "ansPoint":40
+          },
+          {
+             "answerText":"41-60yrs",
+             "ansPoint":15
+          },
+          {
+             "answerText":"61-99yrs",
+             "ansPoint":9
+          }
+       ]
+    },
+    {
+       "questionText":"Q1.What is dribbling in soccer? ",
+       "answerOptions":[
+          {
+             "answerText":"A1.Passing the ball over distance ",
+             "ansPoint":15
+          },
+          {
+             "answerText":"A2.Moving the ball forward with control ",
+             "ansPoint":30
+          },
+          {
+             "answerText":"A3.Moving the ball backwards ",
+             "ansPoint":9
+          },
+          {
+             "answerText":"A4.I do not know ",
+             "ansPoint":3
+          }
+       ]
+    },
+    {
+       "questionText":"Q2.How many hours do you train/play per week? ",
+       "answerOptions":[
+          {
+             "answerText":"A1.0-1hr per week ",
+             "ansPoint":6
+          },
+          {
+             "answerText":"A2.1-3hrs per week ",
+             "ansPoint":10
+          },
+          {
+             "answerText":"A3.3-6hrs per week ",
+             "ansPoint":15
+          },
+          {
+             "answerText":"A4.6hrs plus per week ",
+             "ansPoint":30
+          }
+       ]
+    },
+    {
+       "questionText":"Q3.Have you ever had a coach? ",
+       "answerOptions":[
+          {
+             "answerText":"A1.Yes ",
+             "ansPoint":24
+          },
+          {
+             "answerText":"A2.No ",
+             "ansPoint":9
+          }
+       ]
+    },
+    {
+       "questionText":"Q4.What is the best way to trap a soccer ball? ",
+       "answerOptions":[
+          {
+             "answerText":"A1.I do not know ",
+             "ansPoint":3
+          },
+          {
+             "answerText":"A2.With your thigh ",
+             "ansPoint":9
+          },
+          {
+             "answerText":"A3.With the sole of your foot ",
+             "ansPoint":24
+          },
+          {
+             "answerText":"A4.With your chest ",
+             "ansPoint":6
+          }
+       ]
+    },
+    {
+       "questionText":"Q5.How many times can you juggle a soccer ball ? ",
+       "answerOptions":[
+          {
+             "answerText":"A1.10 plus ",
+             "ansPoint":24
+          },
+          {
+             "answerText":"A2.4 to 9 ",
+             "ansPoint":15
+          },
+          {
+             "answerText":"A3.0 to 3 ",
+             "ansPoint":3
+          }
+       ]
+    },
+    {
+       "questionText":"Q6.How far can you kick a soccer ball ",
+       "answerOptions":[
+          {
+             "answerText":"A1.Not very far ",
+             "ansPoint":9
+          },
+          {
+             "answerText":"A2.Over half way ",
+             "ansPoint":27
+          },
+          {
+             "answerText":"A3.Length of field ",
+             "ansPoint":21
+          }
+       ]
+    },
+    {
+       "questionText":"Q7.Passing skills ",
+       "answerOptions":[
+          {
+             "answerText":"A1.I am not accurate with my passing ",
+             "ansPoint":0
+          },
+          {
+             "answerText":"A2.I can pass with control ",
+             "ansPoint":24
+          },
+          {
+             "answerText":"A3.My passing skills are ok ",
+             "ansPoint":9
+          }
+       ]
+    },
+    {
+       "questionText":"Q8.Defense or Attack? ",
+       "answerOptions":[
+          {
+             "answerText":"A1.I am an attacking type of player ",
+             "ansPoint":18
+          },
+          {
+             "answerText":"A2.I am a defending type of player ",
+             "ansPoint":15
+          },
+          {
+             "answerText":"A3.I can play both attack and defence ",
+             "ansPoint":30
+          },
+          {
+             "answerText":"A4.I do not know if I attack or defend ",
+             "ansPoint":0
+          }
+       ]
+    },
+    {
+       "questionText":"Q9.Anticipation ",
+       "answerOptions":[
+          {
+             "answerText":"A1.I anticipate well ",
+             "ansPoint":27
+          },
+          {
+             "answerText":"A2.What is anticipation? ",
+             "ansPoint":3
+          },
+          {
+             "answerText":"A3.I struggle with anticipation ",
+             "ansPoint":15
+          }
+       ]
+    },
+    {
+       "questionText":"Q10.What is the highest competitive level you have played at? ",
+       "answerOptions":[
+          {
+             "answerText":"A1.I have not played a competition yet ",
+             "ansPoint":3
+          },
+          {
+             "answerText":"A2.Local competitions & tournaments ",
+             "ansPoint":5
+          },
+          {
+             "answerText":"A3.National competitions & tournaments ",
+             "ansPoint":21
+          },
+          {
+             "answerText":"A4.International events ",
+             "ansPoint":30
+          }
+       ]
+    }
+ ]
